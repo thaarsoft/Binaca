@@ -1,0 +1,22 @@
+{
+    "status":"sucess",
+    "data":
+    {
+        "doctor_name": "Abhishek", 
+        "specialization": "General physican", 
+        "total_review": 10, 
+        "avg_review": 3.5,
+        "fb_linked": false,
+        "google_linked": false,
+        "location_lat": "12",
+        "location_lng": "13",
+        "profile_pic_url": "",
+        "reviews": [{"patient_name": "Prabha", "message": "nice doctor"},
+            {"patient_name": "Sunil", "message": "nice doctor with big lab"}],
+        "schedule": [{"time_slots": [1, 2, 3, 4, 5, 6, 7, 8, 9], "day": "Thursday", "date": "21 August 2019"},
+                    {"time_slots":  [1, 2, 3, 4, 5, 6, 7, 8, 9], "day": "Friday", "date": "22 August 2019"},
+                    {"time_slots":  [1, 2, 3, 4, 5], "day": "Saturday", "date": "23 August 2019"}],
+        "service": [{"service_name": "nefro"}, {"service_name": "nefro1"}]
+
+    }
+}
